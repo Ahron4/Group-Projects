@@ -1,0 +1,34 @@
+{
+  "files": {
+    "Adventurer.java": [
+      {
+        "id": "bb043f1a-474c-4055-b7f7-906a770e7964",
+        "line": 27,
+        "version": 3842,
+        "index": 909
+      },
+      {
+        "id": "1daf571c-c870-49d7-b7e9-3d14b4d79522",
+        "line": 42,
+        "version": 3842,
+        "index": 1315
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "93b3980a-320e-48e1-ab24-fc2920228bc3",
+        "line": 30,
+        "version": 4438,
+        "index": 1489
+      }
+    ],
+    "Weapons/CopperSW.java": [
+      {
+        "id": "e1935b6c-6625-4ccd-ba5a-c48a324c5a4f",
+        "line": 1,
+        "version": 428,
+        "index": 0
+      }
+    ]
+  }
+}
